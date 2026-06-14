@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=200&section=header&text=Rohan%20Kumar&fontSize=48&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Research%20Intern%20%40%20IIT%20Bombay&descAlignY=58&descSize=16&descColor=8b949e" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Rohan%20Kumar&fontSize=45&fontColor=58a6ff&animation=fadeIn&fontAlignY=40&desc=AI%20Research%20Intern%20%40%20IIT%20Bombay%20%7C%20CS%20AI%26ML%20%40%20IIIT%20Nagpur&descAlignY=62&descSize=15&descColor=8b949e" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CS+(AI+%26+ML)+%40+IIIT+Nagpur;AI+Research+Intern+%40+IIT+Bombay;Building+with+ML+%7C+CV+%7C+NLP;Open+to+AI+%2F+SWE+Internships!" alt="Typing SVG" />
 
