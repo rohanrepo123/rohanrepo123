@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://readme-wave.vercel.app/api/svg?text=Rohan%20Kumar&subtext=AI%20Research%20Intern%20%40%20IIT%20Bombay&color=58a6ff" width="100%"/>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&height=80&lines=Hi+%F0%9F%91%8B+I'm+Rohan+Kumar" width="100%"/>
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CS+(AI+%26+ML)+%40+IIIT+Nagpur;AI+Research+Intern+%40+IIT+Bombay;Building+with+ML+%7C+CV+%7C+NLP;Open+to+AI+%2F+SWE+Internships!" alt="Typing SVG" />
 
 </div>
