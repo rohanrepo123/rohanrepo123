@@ -7,7 +7,15 @@
 <div align="center">
 
 <a href="https://rohanrepo123.github.io/My-PortoFolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111827" />
+<img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=58A6FF"/>
+</a>
+
+<a href="mailto:yourmail@gmail.com">
+<img src="https://img.shields.io/badge/📧_Contact_Me-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
