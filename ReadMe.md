@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/📧_Contact_Me-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/rohan-kumar2027/">
 <img src="https://img.shields.io/badge/💼_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
