@@ -4,7 +4,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CS+(AI+%26+ML)+%40+IIIT+Nagpur;AI+Research+Intern+%40+IIT+Bombay;Building+with+ML+%7C+CV+%7C+NLP;Open+to+AI+%2F+SWE+Internships!" alt="Typing SVG" />
 
 </div>
-
+<div>
+  <button href ='https://rohanrepo123.github.io/My-PortoFolio/> My Portofolio</button>
+</div>
 ---
 
 ## 🔬 Currently
