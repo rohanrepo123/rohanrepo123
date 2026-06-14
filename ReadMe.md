@@ -4,8 +4,13 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=B.Tech+CS+(AI+%26+ML)+%40+IIIT+Nagpur;AI+Research+Intern+%40+IIT+Bombay;Building+with+ML+%7C+CV+%7C+NLP;Open+to+AI+%2F+SWE+Internships!" alt="Typing SVG" />
 
 </div>
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-%2358A6FF?style=for-the-badge&logo=githubpages&logoColor=white)](https://rohanrepo123.github.io/My-PortoFolio/)
+<div align="center">
 
+<a href="https://rohanrepo123.github.io/My-PortoFolio/" target="_blank">
+  <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=111827" />
+</a>
+
+</div>
 ---
 
 ## 🔬 Currently
