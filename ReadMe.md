@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/🌐_Explore_My_Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=58A6FF"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:rk0054952@gmail.com">
 <img src="https://img.shields.io/badge/📧_Contact_Me-181717?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
 
@@ -31,7 +31,7 @@
 
 ## 🧠 Interests
 
-`Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `Explainable AI`
+`Machine Learning` · `Deep Learning` · `Computer Vision` · `NLP` · `Gen AI` · `Agentic AI` 
 
 ---
 
